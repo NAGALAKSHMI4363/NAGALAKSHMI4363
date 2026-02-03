@@ -95,20 +95,23 @@ To begin my career as a **Data Analyst / AI professional**, applying analytical 
 
 ---
 
-## 📫 Connect With Me (Big Badges)
+## ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/yv-siva-nagalakshmi">
+  <a href="https://linkedin.com/in/nagalakshmi-005990367" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/NAGALAKSHMI4363">
+  
+  <a href="https://github.com/NAGALAKSHMI4363" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/Nagalakshmi4363">
+  
+  <a href="https://leetcode.com/u/Nagalakshmi4363/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  
+  <a href="https://my-portofolio-website-project.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
