@@ -41,8 +41,7 @@ I love turning data into meaningful insights and building clean, efficient, and 
   <a href="https://github.com/NAGALAKSHMI4363" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
   <a href="https://linkedin.com/in/nagalakshmi-005990367" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>
   <a href="https://leetcode.com/u/Nagalakshmi4363/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/></a>
-  <a href="https://my-portofolio-website-project.netlify.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Netlify_logo.svg" alt="Portfolio" width="50" height="50"/></a>
-</p>
+ 
 
 
   
